@@ -2,7 +2,7 @@ import express from 'express';
 import cors from 'cors';
 
 const app = express();
-const PORT = process.env.PORT || 5000; // Set port for the server
+const PORT = process.env.PORT || 10000; // Set port for the server
 
 app.use(cors()); // Enable CORS for all routes
 
