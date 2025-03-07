@@ -31,7 +31,7 @@ cd greeting-app
 ```sh
 cd backend
 npm install
-node server.js  # Runs the Express server on port 5000
+node server.js  # Runs the Express server on port 10000
 ```
 
 ### Frontend Setup
